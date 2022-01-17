@@ -4,6 +4,8 @@
 ## Description
   This Project is an example of a web-app that can also be used offline and will send the cached data to the server when it's online.
   
+  Deployed App: https://still-sierra-89558.herokuapp.com/
+  
 ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -21,6 +23,7 @@ This is meant to showcase how to make a progressive web-app that works online an
 This project uses  the [MIT](https://opensource.org/licenses/MIT) license.
 
 ## Screenshot
+![image](https://user-images.githubusercontent.com/8472345/149716583-25b7b716-3cd0-4812-a1d2-1c5395ab2eec.png)
 
 
 ## Questions
